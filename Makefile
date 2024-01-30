@@ -3,7 +3,7 @@
 ##    $ make install
 ##
 
-MANPAGES = /usr/share/man
+MANPAGES = /tmp/man
 DOCSETSDIR = $(HOME)/.local/share/Zeal/Zeal/docsets
 DOCSETNAME = Linux Man Pages
 # the supplied DOCSETNAME, with spaces replaced by underscores
